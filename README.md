@@ -1,5 +1,4 @@
 # 질소 산화물 발생량 예측 모델 
-https://ixorell.netlify.app/nox%20web/
 
 ## gihub file 로드
 ```python
